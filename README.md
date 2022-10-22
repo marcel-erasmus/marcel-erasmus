@@ -81,4 +81,6 @@ Over the course of my career I have garnered a decent amount of experience with 
 
 ___
 
-### I'm just a dude looking at some code, asking it "WTF".
+> I'm just a guy looking at some code, asking it "WTF".
+
+___
