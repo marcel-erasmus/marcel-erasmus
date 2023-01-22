@@ -1,14 +1,16 @@
 ## Guten Tag! 👋
 
-I'm a software engineer living in South Africa. 
+I'm a software engineer living in Cape Town, South Africa. 
 
-Solving problems and learning new things is something that I do on a daily basis. And I like it. Quite a lot actually.
+Solving problems and learning new things is something that I do on a daily basis and is something that I genuinely enjoy.
 
 My main area of expertise is in software development using Java and Spring, but I believe in choosing the right tool for the job.
 
 I'm a firm believer in having a solid understanding of fundamentals so that new tools and technologies can be adopted quickly and applied where they can be utilised pragmatically.
 
-Over the course of my career I have garnered a decent amount of experience with full stack development in working with frontends, backends, microservices and breaking up monoliths (and quite often adding to them). I have worked with many different programming languages, frameworks (proprietary and open-source) and tools over the years.
+Over the course of my career I have garnered a decent amount of experience with full stack development in working with frontends, backends, microservices, breaking up monoliths (and quite often adding to them), and dealing with cloud migrations. I have worked with many different programming languages, frameworks (proprietary and open-source) and tools over the years.
+
+I've worked on projects that span across various industries, including education, banking, insurance and Forex trade processing.
 
 ## Skills + Tools
 
@@ -84,3 +86,5 @@ ___
 > I'm just a guy looking at some code, asking it "WTF".
 
 ___
+
+I'm an avid lover of tech, the outdoors and music. Occassionaly - when I'm not busy working on tech-related projects - I pick up my guitar to play a couple of notes, and when I'm not doing that or playing video games, I can often be found treading the side of mountains (kind of like a mountain goat).
