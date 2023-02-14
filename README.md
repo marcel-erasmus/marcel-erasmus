@@ -10,7 +10,7 @@ I'm a firm believer in having a solid understanding of fundamentals so that new 
 
 Over the course of my career I have garnered a decent amount of experience with full stack development in working with frontends, backends, microservices, breaking up monoliths (and quite often adding to them), and dealing with cloud migrations. I have worked with many different programming languages, frameworks (proprietary and open-source) and tools over the years.
 
-I've worked on projects that span across various industries, including education, banking, insurance and Forex trade processing.
+I've worked on projects that span across various industries, including Education, Banking, Insurance, and Forex Trade Processing.
 
 ## Skills + Tools
 
